@@ -23,4 +23,4 @@ Household items have the highest average MRP (₹144.48), while Starchy Foods ha
 <img width="1899" height="949" alt="Dashboard 1" src="https://github.com/user-attachments/assets/14ee9c8f-973b-4ea3-953a-03f57534af48" />
 
 # Author
-Abhishek B H
+Abhishek Hurakyagol
